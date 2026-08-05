@@ -1,0 +1,9 @@
+{
+    "serverId": "io.github.eclipsesource/review-guard",
+    "date": "2026-08-04",
+    "metadata": {
+        "name": "ReviewGuard",
+        "description": "MCP server that lets AI agents safely draft and, optionally, submit GitHub PR reviews behind a safety boundary — the write-enabled GitHub token stays on the server and is never exposed to the agent."
+    },
+    "selfPublished": true
+}
