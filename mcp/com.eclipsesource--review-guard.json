@@ -1,5 +1,5 @@
 {
-    "serverId": "io.github.eclipsesource/review-guard",
+    "serverId": "com.eclipsesource/review-guard",
     "date": "2026-08-04",
     "metadata": {
         "name": "ReviewGuard",
