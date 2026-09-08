@@ -7,6 +7,7 @@
     },
     "selfPublished": true,
     "config": {
+        "type": "stdio",
         "command": "npx",
         "args": ["-y", "@eclipsesource/review-guard-mcp@latest", "--stdio"]
     }
