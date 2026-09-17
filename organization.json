@@ -3,5 +3,6 @@
   "name": "EclipseSource",
   "description": "Software engineering company building custom (AI-native) developer tools and IDEs for clients",
   "website": "https://eclipsesource.com",
-  "color": "#83aadd"
+  "color": "#83aadd",
+  "trusts": [{ "org": "ai-registry", "artifactTypes": { "skills": {} } }]
 }
