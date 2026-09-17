@@ -1,0 +1,7 @@
+{
+    "sandboxExtensionId": "io.github.eclipse-enclave/enclave-extensions",
+    "date": "2026-09-09",
+    "source": {
+        "url": "https://github.com/eclipse-enclave/enclave-extensions.git"
+    }
+}
